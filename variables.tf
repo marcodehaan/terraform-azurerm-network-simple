@@ -1,4 +1,3 @@
-# set the variables to create VMs for bi2
 variable "rgroup_name" {
     description = "Name of the resourcegroup"
     default = "somedummyname-rg"
